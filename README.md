@@ -4,7 +4,7 @@ This repository is the central place to submit bug reports relating to Distance.
 
 You can also search under [issues](https://github.com/DistanceDevelopment/distance-bugs/issues) to check your bug doesn't already exist, has been solved or is scheduled to be fixed in an up-coming software release (see below on planned software releases).   (Note that on the issues pages, only open issues are listed by default -- to see solved ("closd") issues, clear the text in the filter.)
 
-The distance R packages each have their own list of issues, and reported bugs are often transferred over to the issues list for the appropriate repository.  Here are links to each package's issues page:
+The distance sampling R packages each have their own list of issues, and reported bugs are often transferred over to the issues list for the appropriate repository.  Here are links to each package's issues page:
   * [Distance issues](https://github.com/DistanceDevelopment/Distance/issues)
   * [mrds issues](https://github.com/DistanceDevelopment/mrds/issues)
   * [dsm issues](https://github.com/DistanceDevelopment/dsm/issues)
