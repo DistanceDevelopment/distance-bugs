@@ -1,6 +1,6 @@
 # Distance bug reports
 
-This repository is the central place to submit bug reports relating to Distance. That includes bugs in [Distance for Windows](http://distancesampling.org/Distance/) and [R packages](http://distancesampling.org/R/) (`Distance`, `mrds`, `dsm` and `dsims`). When reporting a bug please include code or steps in the software which can be used to replicate the issue, otherwise known as a [minimum reproducible example](https://stackoverflow.com/help/minimal-reproducible-example).  
+This repository is the central place to submit bug reports relating to Distance. That includes bugs in [Distance for Windows](http://distancesampling.org/Distance/) and [R packages]([http://distancesampling.org/R/](https://distancesampling.org/software/Rpackages.html)) (`Distance`, `mrds`, `dsm` and `dsims`). When reporting a bug please include code or steps in the software which can be used to replicate the issue, otherwise known as a [minimum reproducible example](https://stackoverflow.com/help/minimal-reproducible-example).  
 
 To report a bug, go to the [issue tracker](https://github.com/dill/distance-bugs/issues).  To report a bug there you will need a github account; you can find out more about reporting bugs [here](https://guides.github.com/features/issues/).  However, you don't need a github account to browse the list of issues.
 
