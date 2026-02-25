@@ -10,6 +10,7 @@ The distance sampling R packages each have their own list of issues, and reporte
   * [Distance issues](https://github.com/DistanceDevelopment/Distance/issues)
   * [mrds issues](https://github.com/DistanceDevelopment/mrds/issues)
   * [dsm issues](https://github.com/DistanceDevelopment/dsm/issues)
+  * [dssd issues](https://github.com/DistanceDevelopment/dssd/issues)
   * [dsims issues](https://github.com/DistanceDevelopment/dsims/issues)
 
 Another source of information about software issues and solutions is the [distance sampling Google Group](https://groups.google.com/forum/#!forum/distance-sampling).
@@ -22,5 +23,6 @@ We schedule software releases as github "milestones".  If you see a milestone at
   * [Distance milestones](https://github.com/DistanceDevelopment/Distance/milestones)
   * [mrds milestones](https://github.com/DistanceDevelopment/mrds/milestones)
   * [dsm milestones](https://github.com/DistanceDevelopment/dsm/milestones)
+  * [dssd milestones](https://github.com/DistanceDevelopment/dssd/milestones)
   * [dsims milestones](https://github.com/DistanceDevelopment/dsims/milestones)
 
